@@ -144,7 +144,7 @@ Revenue impact
 Strategic recommendations
 
 📎 Report:
-👉 https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/Report_Slide/Funnel%20Analysis%20Case%20Study.pdf
+👉 [Click Here](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/Report_Slide/Funnel%20Analysis%20Case%20Study.pdf)
 
 💡 Key Recommendations
 
