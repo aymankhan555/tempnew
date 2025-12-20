@@ -44,7 +44,7 @@ purchase
 
 Negative prices (refunds/reversals) were excluded from revenue calculations to reflect realized sales.
 
-🔍 Key Funnel Metrics (From Dashboard)
+🔍 Key Funnel Metrics
 
 Total Views: 358K
 
