@@ -3,7 +3,7 @@
 📄 Case Study Report (PDF):
 👉 [Report](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/Report_Slide/Funnel%20Analysis%20Case%20Study.pdf)
 
-📌 Project Overview
+📌 Project Overview:
 
 This project analyzes user behavior across an e-commerce purchase funnel to identify conversion bottlenecks, drop-off points, and revenue leakage. The analysis tracks how users move through the journey:
 
@@ -11,7 +11,7 @@ View → Add to Cart → Purchase
 
 The project combines Python-based analysis, a business-focused case study report, and an interactive Power BI dashboard to translate data into actionable insights.
 
-🧠 Business Context
+🧠 Business Context:
 
 The platform experiences high product views but relatively low purchase completion. Stakeholders want to understand:
 
@@ -22,7 +22,7 @@ The platform experiences high product views but relatively low purchase completi
 
 Goal: Identify conversion bottlenecks and revenue leakage points across the user journey and provide data-driven recommendations.
 
-📂 Dataset Summary
+📂 Dataset Summary:
 
 Rows: 286,8631
 Columns: 10
@@ -37,7 +37,7 @@ Only relevant funnel events were used:
 
 Negative prices (refunds/reversals) were excluded from revenue calculations to reflect realized sales.
 
-🔍 Key Funnel Metrics
+🔍 Key Funnel Metrics:
 - Total Views: 358K
 - Add to Cart: 83K
 - Purchases: 26K
@@ -51,20 +51,20 @@ Step-wise Drop-off:
 
 These metrics highlight significant friction at both the product persuasion and checkout stages.
 
-🛍 Product-Level Insights
+🛍 Product-Level Insights:
 
 - High visibility does not guarantee high conversion
 - Some products with fewer views outperform highly viewed products in conversion
 - Several products convert below 2%, indicating lost revenue opportunities
 
-👥 User Behavior Insights
+👥 User Behavior Insights:
 
 - Repeat users: 74,120
 - Single-event users: 295,332
 
 Most users interact only once, signaling weak retention and limited return engagement.
 
-⏱ Time-Based Funnel Trends
+⏱ Time-Based Funnel Trends:
 Daily Funnel Trend:
 - Stable funnel ratios across most days
 - Sharp decline during late December, likely due to seasonal or campaign effects
@@ -76,7 +76,7 @@ Weekly Funnel Trend:
 - Conversion efficiency remains stable despite traffic surges
 - This confirms strong seasonality in business performance.
 
-💰 Revenue Impact
+💰 Revenue Impact:
 - Average Purchase Price: $5.06
 - Actual Revenue: $129,476
 - Potential Revenue (Cart stage): $421,888
@@ -84,7 +84,7 @@ Weekly Funnel Trend:
 - Revenue Lost After View Stage: $1.68M
 - A large share of revenue is lost due to funnel drop-offs.
 
-📊 Dashboard
+📊 Dashboard:
 
 - The Power BI dashboard includes:
 - Executive KPI cards (Users, Conversion %, Drop-off %, Revenue)
@@ -96,7 +96,7 @@ Weekly Funnel Trend:
 ![E-commerce Funnel Analysis Dashboard](dashboard_pic.png)
 
 
-📄 Case Study Report
+📄 Case Study Report:
 
 A business-focused PDF report summarizes:
 
@@ -109,7 +109,7 @@ A business-focused PDF report summarizes:
 📎 Report:
 👉 [Click Here](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/Report_Slide/Funnel%20Analysis%20Case%20Study.pdf)
 
-💡 Key Recommendations
+💡 Key Recommendations:
 - Improve product pages for high-view, low-conversion items
 - Introduce trust badges and limited-time discounts
 - Simplify checkout flow
@@ -117,7 +117,7 @@ A business-focused PDF report summarizes:
 - Optimize product recommendations
 - Retarget cart abandoners via email or ads
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies:
 - Python (Pandas, NumPy, Matplotlib)
 - Power BI
 - Gamma for presentation
