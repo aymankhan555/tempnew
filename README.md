@@ -1,7 +1,8 @@
 📊 E-commerce Funnel Analysis & Conversion Optimization
 
 📄 Case Study Report (PDF):
-👉 https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/Report_Slide/Funnel%20Analysis%20Case%20Study.pdf
+👉 (Report)[https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/Report_Slide/Funnel%20Analysis%20Case%20Study.pdf]
+
 📌 Project Overview
 
 This project analyzes user behavior across an e-commerce purchase funnel to identify conversion bottlenecks, drop-off points, and revenue leakage. The analysis tracks how users move through the journey:
