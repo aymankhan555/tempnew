@@ -126,7 +126,8 @@ Step-wise conversion & drop-off charts
 Daily and weekly funnel trends
 
 📸 Dashboard Preview:
-(Image included in repository)
+![E-commerce Funnel Analysis Dashboard](dashboard_pic.png)
+
 
 📄 Case Study Report
 
