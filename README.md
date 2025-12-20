@@ -27,7 +27,7 @@ Goal: Identify conversion bottlenecks and revenue leakage points across the user
 
 📂 Dataset Summary
 
-Rows: 286,831
+Rows: 286,8631
 
 Columns: 10
 
